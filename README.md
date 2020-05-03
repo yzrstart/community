@@ -47,14 +47,6 @@ How to: Configure your server to work with html5Mode 这个小节里面把常见
 - Echarts 3.4.0
 - ckeditor5-angular
 
-## 系列项目
-
-* NiceFish：美人鱼，这是一个微型 Blog 系统，前端基于 Angular 7.0 + PrimeNG 7.1.0。http://git.oschina.net/mumu-osc/NiceFish/
-* NiceFish-React：这是React版的实现，界面外观完全相同。采用React Hooks 16.8.3 版本，使用TypeScript、Ant Design组件库以及Bootstrap v4.2.1 开发。
-* nicefish-ionic：这是一个移动端的 demo，基于 ionic，此项目已支持 PWA。http://git.oschina.net/mumu-osc/nicefish-ionic
-* NiceBlogElectron：https://github.com/damoqiongqiu/NiceBlogElectron ,这是一个基于 Electron 的桌面端项目，把 NiceFish 用 Electron 打包成了一个桌面端运行的程序。这是由 ZTE 中兴通讯的前端道友提供的，我 fork 了一个，有几个 node 模块的版本号老要改，如果您正在研究如何利用 Electron 开发桌面端应用，请参考这个项目。
-* nicefish-spring-cloud: https://gitee.com/mumu-osc/nicefish-spring-cloud ， 这是NiceFish的服务端代码，基于SpringCloud。已经完成了一些基本的功能，如 SpringSecurity+OAuth2+JWT 实现SSO，文章、用户、评论等的分页查询等。如果你需要与这个后端代码进行对接，请检出本项目的 for-spring-cloud 分支。
-
 ## 界面截图
 
 <img src="./src/assets/imgs/1.png">
@@ -89,12 +81,6 @@ webpack-bundle-analyzer 使用方法：
 
 - bilibili 地址：https://www.bilibili.com/video/av87528565
 - 油管地址：https://www.youtube.com/watch?v=sIa_KF0cUnE&list=PLbhC27Bf6WlmpDh_66g7Fpn8uCYG7jUn8
-
-## 联系我
-
-<img src="./src/assets/imgs/damoqiongqiu-wechat.jpg" width="250"/>
-
-（不要随意加我，我这个人脾气不好，万一咱俩尿不到一个壶里弄到最后连朋友都没得做，还是做个点赞之交，就挺好。）
 
 ## 开源许可证
 
