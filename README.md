@@ -58,10 +58,6 @@ How to: Configure your server to work with html5Mode 这个小节里面把常见
 | nicefish-springboot  | 用来示范前后端分离模式下，前端代码与后端服务的对接方式，https://gitee.com/mumu-osc/nicefish-spring-boot 。|
 | nicefish-springcloug  | 用来示范前后端分离模式下，前端代码与分布式后端服务的对接方式，即将完成，代码最近放出。|
 
-## 线上演示
-
-http://118.25.136.164
-
 ## 界面截图
 
 <img src="./src/assets/imgs/1.png">
@@ -102,12 +98,6 @@ webpack-bundle-analyzer 使用方法：
 
 - bilibili 地址：https://www.bilibili.com/video/av87528565
 - 油管地址：https://www.youtube.com/watch?v=sIa_KF0cUnE&list=PLbhC27Bf6WlmpDh_66g7Fpn8uCYG7jUn8
-
-## 联系我
-
-<img src="./src/assets/imgs/damoqiongqiu-wechat.jpg" width="250"/>
-
-（不要随意加我，我这个人脾气不好，万一咱俩尿不到一个壶里弄到最后连朋友都没得做，还是做个点赞之交，就挺好。）
 
 ## 开源许可证
 

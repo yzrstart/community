@@ -144,7 +144,7 @@
         }
       }
     },
-    "NiceFish-e2e": {
+    "e2e": {
       "root": "",
       "sourceRoot": "",
       "projectType": "application",
