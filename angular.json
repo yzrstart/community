@@ -177,5 +177,8 @@
     "@schematics/angular:directive": {
       "prefix": ""
     }
+  },
+  "cli": {
+    "analytics": "9bbfe84f-7bb9-4059-b110-476841732e82"
   }
 }
